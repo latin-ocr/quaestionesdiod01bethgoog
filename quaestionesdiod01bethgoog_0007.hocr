@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesdiod01bethgoog_0007.png"; bbox 0 0 3480 5030; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 658 883 1011 1362">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 658 883 1011 1362">
+     <span class='ocr_line' id='line_1_1' title="bbox 658 985 692 1054; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 658 985 692 1054; x_wconf 56' lang='grc' dir='ltr'>κλ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 756 895 921 1358; baseline 0 -10"><span class='ocrx_word' id='word_1_2' title='bbox 756 895 921 1358; x_wconf 34' lang='grc' dir='ltr'>[Β-ΙὮΚΝ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 858 883 1011 1362; baseline 0.011 -1.619"><span class='ocrx_word' id='word_1_3' title='bbox 822 1241 880 1362; x_wconf 61' lang='lat' dir='ltr'>22ss</span> <span class='ocrx_word' id='word_1_4' title='bbox 902 883 1011 1175; x_wconf 32' lang='grc' dir='ltr'>1έρ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1744 5030">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1744 5030">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1744 5030; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1744 5030; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
